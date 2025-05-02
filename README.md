@@ -107,14 +107,6 @@ juego.mostrarAcciones();
 Batalla batalla = new Batalla(aragorn, gandalf);
 batalla.iniciarCombate();
 ```
-
-## 📊 Class Diagram
-
-<p align="center">
-  <img src="/api/placeholder/600/400" alt="Class Diagram">
-</p>
----
-
 <div align="center">
-  <sub>Built with ❤️ by Alejandro Hernández Ravelo & MArtín Oliver Pallarés.</sub>
+  <sub>Built with ❤️ by Alejandro Hernández Ravelo & Martín Oliver Pallarés.</sub>
 </div>
