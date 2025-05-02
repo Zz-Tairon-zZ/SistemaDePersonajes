@@ -4,14 +4,8 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 </div>
-
-<p align="center">
-  <img src="/api/placeholder/600/300" alt="RPG Character System Banner">
-</p>
-
 ## 📖 Overview
 
 A comprehensive object-oriented RPG character system implemented in Java. This project showcases advanced OOP principles including inheritance, polymorphism, abstract classes, and interfaces to create a flexible and extensible game character framework.
